@@ -1,0 +1,39 @@
+[33mcommit 1ec5babff8e91e588934e3bfa5911892c88d344e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MARCOS <marcos_36m@hotmail.com>
+Date:   Sun Feb 9 18:35:32 2020 -0300
+
+    top bar  completed
+
+[33mcommit 00bc2950849647757e8fdb059f941636ae143b36[m
+Merge: 9675016 7abf3eb
+Author: MARCOS <marcos_36m@hotmail.com>
+Date:   Thu Feb 6 18:55:49 2020 -0300
+
+    Merge branch 'master' of https://github.com/xMartinezZz/TwitterUIClone
+    -conflict
+
+[33mcommit 9675016ee161ac0ec086544b83e13fd8e7304c19[m
+Author: MARCOS <marcos_36m@hotmail.com>
+Date:   Thu Feb 6 18:54:20 2020 -0300
+
+    added more details on banner bar
+
+[33mcommit 7abf3ebad8f136fb0e0cda4706de642424e9e0a8[m
+Author: Marcos Martins <54517030+xMartinezZz@users.noreply.github.com>
+Date:   Wed Feb 5 18:50:37 2020 -0300
+
+    Create README.md
+    
+    added description
+
+[33mcommit f639bad52ba916ff4b1b0ad5cb311aee28c0abdb[m
+Author: MARCOS <marcos_36m@hotmail.com>
+Date:   Wed Feb 5 18:48:13 2020 -0300
+
+    added header bar
+
+[33mcommit 20b43f74089246dbc4a46bf24d4437cd51fab2e1[m
+Author: Marcos Martins <marcos_36ma@hotmail.com>
+Date:   Sun Feb 2 22:58:19 2020 -0300
+
+    first commit, only with navbar at this moment
